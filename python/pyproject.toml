@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "python-starter"
+version = "0.1.0"
+description = "A minimal Python starter project."
+authors = [""]
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+
+[project.scripts]
+start = "python_starter.main:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
