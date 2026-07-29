@@ -1,0 +1,15 @@
+# pack-refs with: peeled fully-peeled sorted 
+13789ce9a49a1b38f4b5381703d17e57db47b8dd refs/remotes/origin/bigtree
+28c6163afa08e339a26e43a8d53af419d84729a4 refs/remotes/origin/claude-main
+d8d8fb5248f3ee64f0dbfe00a2c4b47c4c9903ff refs/remotes/origin/copilot/4a26f74-fix-sync
+4aa5c151d2f935cf7caa5b43cebc1ac5003fefd1 refs/remotes/origin/copilot/c45f481
+18cfaf3c062bdf829e44b02b2428533db9ce089b refs/remotes/origin/copilot/copilotc45f481
+b4d3d39ae343a9e29c7e8f7b3b009a00cd4d7a0e refs/remotes/origin/copilot/hidden-secrets-and-safety
+9d28804530a97e53414d620353b85cc83bea2469 refs/remotes/origin/copilot/hide-in-secrets-exposed-diff
+58a38668fbe146a87ccfae50f9155aaae91d8ea2 refs/remotes/origin/copilot/npm-run-build
+30c3c24de3ec0cc96b31b3231ee1aa027d8091f7 refs/remotes/origin/copilot/save-to-device
+9d28804530a97e53414d620353b85cc83bea2469 refs/remotes/origin/copilot/visualizing-docs-index-glc
+0c4228d7d85497907188f4d3e2ed9b1c98ae1d96 refs/remotes/origin/copilot/write-docs-math-examples
+6b012b1701dd35e4fbb587565dbe6bb7df503255 refs/remotes/origin/gh-pages
+d13a2472d94fb6323fd148a47c71829f28f3d882 refs/remotes/origin/glc
+6bb78ee297f544af11c2d423c8a07150aa983fd4 refs/remotes/origin/main
